@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner" style="width:800px; height:300px; object-fit:contain; object-position:center;" />
+  <img src="./banner.png" alt="Banner" style="width:800px; height:500px; object-fit:contain; object-position:center;" />
 </p>
 
 ## Hi 👋 I’m Vlad
